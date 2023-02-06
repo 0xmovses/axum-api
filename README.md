@@ -1,1 +1,3 @@
-src/routes/mirror_user_agent.rs axum-api
+axum-api
+
+once inside postgres it run `psql -U postgres -d postgres` to start psql.
